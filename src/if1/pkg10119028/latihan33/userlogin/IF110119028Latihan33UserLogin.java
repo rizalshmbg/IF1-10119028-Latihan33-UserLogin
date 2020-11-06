@@ -12,7 +12,7 @@ import java.util.Scanner;
  * NAMA     : Rizal Sihombing
  * KELAS    : IF1
  * NIM      : 10119028
- * Deskripsi Program : Program ini berisi program untuk mengecek status login dengan konsep OO
+ * Deskripsi Program : Program ini berisi program untuk mengecek status login dengan konsep OO 
  */
 public class IF110119028Latihan33UserLogin {
 
